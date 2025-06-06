@@ -1,4 +1,4 @@
-# 👋 Xin chào, tôi là [Tên của bạn]
+# 👋 Xin chào, tôi là Ngô Đăng Hán
 
 ## 👨‍💻 Về tôi
 
